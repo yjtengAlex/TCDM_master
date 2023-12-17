@@ -1,0 +1,16 @@
+clip=0.2.0
+dipy=1.7.0
+einops=0.7.0
+h5py=3.10.0
+imageio=2.32.0
+matplotlib=3.5.0
+nibabel=5.1.0
+numpy=1.26.1
+opencv-python=4.8.1.78
+Pillow=10.0.1
+torch=1.13.1+cu116
+torchaudio=0.13.1+cu116
+torchmetrics=1.2.0
+torchvision=0.14.1+cu116
+tqdm=4.66.1
+transformers=4.35.0
