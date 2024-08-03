@@ -70,4 +70,5 @@ python cal_FA.py
 
 # Show the super resolution effect
 
-![image](https://github.com/yjtengAlex/TCDM_master/assets/121848586/08f6566a-c3fe-453b-86f5-ca8c5fcdc62f)
+![image](https://github.com/user-attachments/assets/a5ac53e0-3054-4c17-9a09-e921690507cb)
+
